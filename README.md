@@ -44,9 +44,13 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
 ###
 
 <div align="left">
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_sql_icon_130152.png" height="40" alt="sql logo"/>
+  <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_azure_icon_130731.png" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_python_icon_130221.png" height="40" alt="python logo"/>
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_js_official_icon_130509.png" height="40" alt="JS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
@@ -65,7 +69,7 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas Estatísticas :</h3>
 
 ###
 
