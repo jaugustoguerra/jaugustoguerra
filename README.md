@@ -5,6 +5,7 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/augusto-guerra-silva/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
@@ -43,13 +44,13 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_azure_icon_130731.png" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_python_icon_130221.png" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_sql_icon_130152.png" height="40" alt="ruby logo"  />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
