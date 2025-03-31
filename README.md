@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaugustoguerra&"  />
 </div>
 
 ###
@@ -71,7 +71,7 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaugustoguerra&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 ###
