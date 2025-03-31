@@ -52,7 +52,7 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
   <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_js_official_icon_130509.png" height="40" alt="JS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" height="40" alt="C logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" height="40" alt="jupyter logo"  />
   <img width="12" />
