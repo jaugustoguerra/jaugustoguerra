@@ -46,6 +46,10 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
 <div align="left">
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_sql_icon_130152.png" height="40" alt="sql logo"/>
   <img width="12" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_169299.png" height="40" alt="databricks logo"/>
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/google_cloud_logo_icon_171058.png" height="40" alt="goglecloud logo"/>
+  <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_azure_icon_130731.png" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_python_icon_130221.png" height="40" alt="python logo"/>
