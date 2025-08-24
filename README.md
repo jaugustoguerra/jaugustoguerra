@@ -50,6 +50,8 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
   <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_sql_icon_130152.png" height="40" alt="sql logo"/>
   <img width="12" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/linux_original_logo_icon_146433.png" height="40" alt="linux logo"/>
+  <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_169299.png" height="40" alt="databricks logo"/>
   <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/google_cloud_logo_icon_171058.png" height="40" alt="goglecloud logo"/>
