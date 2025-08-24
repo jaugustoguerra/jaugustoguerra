@@ -44,6 +44,8 @@ Vamos nos conectar e construir algo incrível juntos! 🚀</p>
 ###
 
 <div align="left">
+  <img src="https://images.icon-icons.com/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png" height="40" alt="ruby logo"/>
+  <img width="12" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_sql_icon_130152.png" height="40" alt="sql logo"/>
   <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_169299.png" height="40" alt="databricks logo"/>
