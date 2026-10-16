@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Ilustração animada de um desenvolvedor trabalhando" />
 
-  <h1>Olá, eu sou o Augusto Guerra 👋</h1>
+  <h1>Olá, eu sou o José Augusto Guerra 👋</h1>
 
   <p>
     <strong>Engenheiro de Software · Dados · Backend · Automação</strong>
@@ -119,6 +119,6 @@ Se você trabalha com esses desafios, [vamos nos conectar no LinkedIn](https://w
 ---
 
 <div align="center">
-  <sub>Augusto Guerra · <a href="https://github.com/jaugustoguerra">@jaugustoguerra</a></sub>
+  <sub>José Augusto Guerra · <a href="https://github.com/jaugustoguerra">@jaugustoguerra</a></sub>
 </div>
 
