@@ -1,90 +1,124 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> 
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Ilustração animada de um desenvolvedor trabalhando" />
+
+  <h1>Olá, eu sou o Augusto Guerra 👋</h1>
+
+  <p>
+    <strong>Engenheiro de Software · Dados · Backend · Automação</strong>
+  </p>
+
+  <p>
+    Conecto dados, sistemas e processos para construir soluções úteis<br />
+    e reduzir o trabalho manual.
+  </p>
+
+  <a href="https://www.linkedin.com/in/augusto-guerra-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Conecte-se comigo no LinkedIn" />
+  </a>
+  <a href="https://github.com/jaugustoguerra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Meu perfil no GitHub" />
+  </a>
+
 </div>
 
-###
+<br />
+
+## 👨‍💻 Sobre mim
+
+Sou engenheiro de software e tenho interesse especial por **bancos de dados, desenvolvimento backend e engenharia de dados**. Gosto de entender como as informações circulam entre os sistemas e encontrar formas de tornar esse caminho mais simples e eficiente.
+
+Nos meus projetos, trabalho com **SQL, transformação de dados, integrações via API e automação de processos**. Entre uma consulta no BigQuery e um fluxo no n8n, o que mais me motiva é resolver problemas concretos: organizar informações, eliminar tarefas repetitivas e fazer sistemas conversarem.
+
+- 🔎 Gosto de investigar dados, otimizar consultas e transformar resultados em informações úteis.
+- ⚙️ Desenvolvo automações com atenção a regras de negócio, validação e deduplicação.
+- 🐳 Utilizo Docker e Docker Compose para organizar ambientes locais e bancos de dados.
+- 🌱 Continuo aprimorando minhas habilidades em Python, C# e JavaScript, além de aprofundar meus estudos em TypeScript e backend.
+
+## 🧩 O que construo
+
+| Frente | Na prática |
+| :--- | :--- |
+| **Dados & SQL** | Consultas com CTEs, agregações e pivôs; consolidação, deduplicação e preparação de dados para relatórios. |
+| **Automação & integrações** | Fluxos no n8n, consumo de APIs e automação de notificações e rotinas operacionais. |
+| **Backend & bancos de dados** | Aplicações conectadas a bancos relacionais, organização de regras de negócio e evolução de sistemas existentes. |
+| **Ambientes de desenvolvimento** | Configuração de serviços e bancos de dados com Docker, Docker Compose e Linux. |
+
+## 🛠️ Tecnologias que uso e estudo
+
+### Dados e automação
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-1A1B27?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/BigQuery-1A1B27?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=669DF6" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&amp;logo=postgresql&amp;logoColor=699ECA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/n8n-1A1B27?style=for-the-badge&amp;logo=n8n&amp;logoColor=EA4B71" alt="n8n" />
+</p>
+
+### Linguagens e desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-1A1B27?style=for-the-badge&amp;logo=dotnet&amp;logoColor=A78BFA" alt="C# e .NET" />
+  <img src="https://img.shields.io/badge/PHP-1A1B27?style=for-the-badge&amp;logo=php&amp;logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-1A1B27?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+</p>
+
+### Ambiente e versionamento
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker e Docker Compose" />
+  <img src="https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+</p>
+
+<details>
+  <summary><strong>Outras tecnologias que fazem parte dos meus interesses</strong></summary>
+
+  <br />
+
+  <p>
+    Databricks · Google Cloud · Azure · AWS · Jupyter · Firebase · Kubernetes · Ruby
+  </p>
+
+</details>
+
+## 🌱 Meu foco de aprendizado
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NestJS-1A1B27?style=for-the-badge&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Prisma-1A1B27?style=for-the-badge&amp;logo=prisma&amp;logoColor=A78BFA" alt="Prisma" />
+</p>
+
+Estou aprofundando meus estudos em **TypeScript, NestJS e Prisma**, com foco na estruturação de APIs, integração com bancos relacionais e evolução de aplicações backend. Também quero seguir explorando **processos ETL e qualidade de dados**.
+
+## 🔥 Atividade no GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/augusto-guerra-silva/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+  <a href="https://github.com/jaugustoguerra">
+    <img
+      src="https://streak-stats.demolab.com/?user=jaugustoguerra&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR"
+      width="520"
+      alt="Sequência de contribuições de jaugustoguerra no GitHub"
+    />
+  </a>
+
 </div>
 
-###
+## 🤝 Vamos conversar?
+
+Tenho interesse em colaborar em projetos de **backend, automação e engenharia de dados**, especialmente quando envolvem organizar informações, integrar serviços ou melhorar processos.
+
+Se você trabalha com esses desafios, [vamos nos conectar no LinkedIn](https://www.linkedin.com/in/augusto-guerra-silva/).
+
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaugustoguerra&"  />
+  <sub>Augusto Guerra · <a href="https://github.com/jaugustoguerra">@jaugustoguerra</a></sub>
 </div>
 
-###
-
-<h1 align="center">Olá, eu sou @jaugustoguerra 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 Sobre mim</h3>
-
-###
-
-<p align="left">👀 Tenho interesse em bancos de dados, desenvolvimento de software e engenharia de dados.<br><br>
-
-🌱 Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades em Python, C# e JavaScript.<br><br>
-
-💞️ Estou buscando colaborar em projetos relacionados à administração de banco de dados, processos ETL e desenvolvimento backend.<br><br>
-
-⚡ Curiosidade: Adoro otimizar consultas e automatizar processos para tornar os sistemas mais eficientes!<br><br>
-
-🎓 Sou engenheiro de software com experiência em diversas tecnologias e sempre em busca de novos desafios.<br><br>
-
-Vamos nos conectar e construir algo incrível juntos! 🚀</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-###
-
-<div align="left">
-  <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="40" alt="react logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png" height="40" alt="ruby logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_sql_icon_130152.png" height="40" alt="sql logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2415/PNG/512/linux_original_logo_icon_146433.png" height="40" alt="linux logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_169299.png" height="40" alt="databricks logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/google_cloud_logo_icon_171058.png" height="40" alt="goglecloud logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_azure_icon_130731.png" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_python_icon_130221.png" height="40" alt="python logo"/>
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_js_official_icon_130509.png" height="40" alt="JS logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png" height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jupyter_icon_130494.png" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Minhas Estatísticas :</h3>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=jaugustoguerra&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
-</div>
-
-###
